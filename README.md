@@ -1,9 +1,7 @@
 # Chicago-CrimeData-Time-Series-Application
 Time Series - ARIMA - 1D Convolution - LSTM - ADF KPSS Test - PACF and ACF - Map Visualization - Random Forest - Chicago Crime Data - Data Analysis -  Crime Category and Crime Rate Prediction - ML Forecast
 
-<video src="./assets/demo.mov" controls>
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/3f12d47c-1e1a-4625-9e0a-f7bcdba79a1f
 
 * A sociological, time-bound analysis of crimes committed in Chicago, a city in the United States.
 * Map Visualization with geohash library.
